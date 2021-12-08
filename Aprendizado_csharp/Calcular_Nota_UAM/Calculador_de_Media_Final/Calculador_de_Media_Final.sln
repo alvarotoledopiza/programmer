@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculador_de_Media_Final", "Calculador_de_Media_Final\Calculador_de_Media_Final.csproj", "{40A1AAB8-5C2D-461D-9B3A-D7C3B6D376D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40A1AAB8-5C2D-461D-9B3A-D7C3B6D376D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A1AAB8-5C2D-461D-9B3A-D7C3B6D376D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A1AAB8-5C2D-461D-9B3A-D7C3B6D376D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A1AAB8-5C2D-461D-9B3A-D7C3B6D376D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F35E1C5D-6776-4662-B52D-30DF3928942C}
+	EndGlobalSection
+EndGlobal
