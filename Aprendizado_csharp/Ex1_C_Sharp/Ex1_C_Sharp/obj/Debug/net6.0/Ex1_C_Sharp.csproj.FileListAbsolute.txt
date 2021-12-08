@@ -1,0 +1,15 @@
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\obj\Debug\net6.0\Ex1_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\obj\Debug\net6.0\Ex1_C_Sharp.AssemblyInfoInputs.cache
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\obj\Debug\net6.0\Ex1_C_Sharp.AssemblyInfo.cs
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\obj\Debug\net6.0\Ex1_C_Sharp.csproj.CoreCompileInputs.cache
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\bin\Debug\net6.0\Ex1_C_Sharp.exe
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\bin\Debug\net6.0\Ex1_C_Sharp.deps.json
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\bin\Debug\net6.0\Ex1_C_Sharp.runtimeconfig.json
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\bin\Debug\net6.0\Ex1_C_Sharp.dll
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\bin\Debug\net6.0\ref\Ex1_C_Sharp.dll
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\bin\Debug\net6.0\Ex1_C_Sharp.pdb
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\obj\Debug\net6.0\Ex1_C_Sharp.dll
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\obj\Debug\net6.0\ref\Ex1_C_Sharp.dll
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\obj\Debug\net6.0\Ex1_C_Sharp.pdb
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\obj\Debug\net6.0\Ex1_C_Sharp.genruntimeconfig.cache
+D:\My_Codes\programmer\Aprendizado_csharp\Ex1_C_Sharp\Ex1_C_Sharp\obj\Debug\net6.0\Ex1_C_Sharp.csproj.AssemblyReference.cache
