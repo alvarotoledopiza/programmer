@@ -34,9 +34,19 @@ namespace Course
             int t = 10;
             t++; //O ++ incrementa 1 e o -- descrescenta 1 da variável
 
+            //fazendo um valor double de 8 bytes receber um valor int de 4 bytes
+            double h;
+            int g;
+            h = 5.1;
+            g = (int)h;
+
+            //Dividindo dois valores inteiros, onde o resultado é decimal -->inserir double entre ().
+            int o = 5;
+            int p = 2;
+            double resultado = (double)o / p;
 
 
-
+            //Exivindo as mensagens na tela
             Console.WriteLine(completo);
             Console.WriteLine(genero);
             Console.WriteLine(letra);
@@ -59,6 +69,8 @@ namespace Course
             Console.WriteLine(b);
             Console.WriteLine(s);
             Console.WriteLine(t);
+            Console.WriteLine(g);
+            Console.WriteLine(resultado);
         }
     }
 }
