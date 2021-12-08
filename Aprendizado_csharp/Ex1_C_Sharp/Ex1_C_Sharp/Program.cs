@@ -17,7 +17,7 @@ namespace Course
             double medida = 53.234567;
 
             Console.WriteLine($"Produtos:\r\n{produto1}, cujo preço é {preco1}"); // \r\n para pular de linha
-            Console.WriteLine($"{produto2}, cujo preço é {preco2}");
+            Console.WriteLine($"{produto2}, cujo preço é {preco2}"); 
             Console.WriteLine($"\nRegistro: {idade} anos de idade, código {codigo} e gênero: {genero}\n");
             Console.WriteLine($"Medida com oito casas decimais: {medida:F8}");
             Console.WriteLine($"Arredondado (três casas decimais): {medida:F3}");

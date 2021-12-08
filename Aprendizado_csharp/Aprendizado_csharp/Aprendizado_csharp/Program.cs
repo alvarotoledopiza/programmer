@@ -25,6 +25,9 @@ namespace Course
             int n7 = int.MinValue;
             int n8 = int.MaxValue;
             decimal n9 = decimal.MaxValue;
+            int a = 10;
+            a+= 2; //Se eu quiser acrescentar qualquer valor a uma variável, é só eu inserir a variável += valor que eu quero
+
 
             Console.WriteLine(completo);
             Console.WriteLine(genero);
@@ -41,10 +44,10 @@ namespace Course
             Console.WriteLine(n7);
             Console.WriteLine(n8);
             Console.WriteLine(n9);
-
             Console.WriteLine("{0} tem {1} anos e tem saldo igual a {2:F2} reais", nome, idade, saldo);  //imprimindo_com_placeholders
             Console.WriteLine($"{nome} tem {idade} anos e tem saldo igual a {saldo:F2} reais"); //imprimindo_utilizando_interpolação
             Console.WriteLine(nome + " tem " + idade + " anos e tem saldo igual a " + saldo.ToString("F2", CultureInfo.InvariantCulture) + " reais");
+            Console.WriteLine(a); 
         }
     }
 }
