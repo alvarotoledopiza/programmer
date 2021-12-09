@@ -10,6 +10,7 @@ namespace Calculadora
         static.void Main(string[]args)
         {
             double A1 = 
+            double A2 = 
 
 
 

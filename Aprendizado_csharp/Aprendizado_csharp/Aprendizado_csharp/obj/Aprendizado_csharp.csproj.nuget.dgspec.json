@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My_Codes\\programmer\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp.csproj": {}
+    "C:\\My_Codes\\programmer\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp.csproj": {}
   },
   "projects": {
-    "D:\\My_Codes\\programmer\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp.csproj": {
+    "C:\\My_Codes\\programmer\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My_Codes\\programmer\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp.csproj",
+        "projectUniqueName": "C:\\My_Codes\\programmer\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp.csproj",
         "projectName": "Aprendizado_csharp",
-        "projectPath": "D:\\My_Codes\\programmer\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp.csproj",
+        "projectPath": "C:\\My_Codes\\programmer\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp.csproj",
         "packagesPath": "C:\\Users\\Álvaro Piza\\.nuget\\packages\\",
-        "outputPath": "D:\\My_Codes\\programmer\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp\\obj\\",
+        "outputPath": "C:\\My_Codes\\programmer\\Aprendizado_csharp\\Aprendizado_csharp\\Aprendizado_csharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
