@@ -9,9 +9,10 @@ namespace Calculadora
 
         static.void Main(string[]args)
         {
-            double A1 = 
-            double A2 = 
-            double A3 = 
+            int A1 = 2;
+            double A2 = 3.5;
+            double A3 = 4.2;
+            double A4 = 5.5;
 
 
 
