@@ -1,0 +1,13 @@
+git remote add origin git@github.com:alvarotoledopiza/programmer.git
+git branch -M master
+git push -u origin master
+
+corrigir erro fatal: refusing to merge unrelated histories:
+git pull origin master --allow-unrelated-histories
+
+PC1 cria uma pasta e digita:
+git add nomedapasta
+git commit -m "A alteração que foi feita"
+
+PC2 recebe a pasta digitando:
+git pull
