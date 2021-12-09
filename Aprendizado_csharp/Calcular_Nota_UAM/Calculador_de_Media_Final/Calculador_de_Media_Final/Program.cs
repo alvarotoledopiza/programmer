@@ -11,6 +11,7 @@ namespace Calculadora
         {
             double A1 = 
             double A2 = 
+            double A3 = 
 
 
 
