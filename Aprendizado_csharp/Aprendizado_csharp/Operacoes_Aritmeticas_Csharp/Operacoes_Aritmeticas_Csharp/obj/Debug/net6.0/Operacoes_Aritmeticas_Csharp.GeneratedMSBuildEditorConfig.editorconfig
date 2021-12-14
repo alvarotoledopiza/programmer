@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Operacoes_Aritmeticas_Csharp
+build_property.ProjectDir = D:\My_Codes\programmer\Aprendizado_csharp\Aprendizado_csharp\Operacoes_Aritmeticas_Csharp\Operacoes_Aritmeticas_Csharp\
