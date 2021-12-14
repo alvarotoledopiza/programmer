@@ -7,7 +7,6 @@ git pull origin master --allow-unrelated-histories
 
 PC1 cria uma pasta e digita:
 git add nomedapasta
-git add . --> adiciona todos os arquivos modificados
 git commit -m "A alteração que foi feita"
 
 PC2 recebe a pasta digitando:
